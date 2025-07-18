@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋, I'm Nana Akigawa
+#### A fullstack developer from Aichi. I am looking for a new job!
+
+#### Language and Tools:
+![](https://skillicons.dev/icons?i=js,typescript,python,html,css,react,nextjs,remix,nodejs,express,prisma,fastapi,mysql,postgresql,docker,firebase,tailwind,postman)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=akigawa77&showicons=true&locale=en&layout=compact&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akigawa77&theme=yeblu)
 
 <!--
 **akigawa77/akigawa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
