@@ -4,8 +4,9 @@
 #### Language and Tools:
 ![](https://skillicons.dev/icons?i=js,typescript,python,html,css,react,nextjs,remix,nodejs,express,prisma,fastapi,mysql,postgresql,docker,firebase,tailwind,postman)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=akigawa77&showicons=true&locale=en&layout=compact&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akigawa77&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=akigawa77&show_icons=true&locale=en&layout=compact&theme=graywhite&cache_seconds=30)
+![Akigawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=akigawa77&show_icons=true&theme=graywhite)
+
 
 <!--
 **akigawa77/akigawa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
